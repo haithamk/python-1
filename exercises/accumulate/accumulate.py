@@ -1,2 +1,2 @@
 def accumulate(collection, operation):
-    pass
+    print "test"
